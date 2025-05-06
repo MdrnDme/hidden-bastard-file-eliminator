@@ -45,7 +45,7 @@ Unlike Apple's own "storage management" that shows you nothing useful, we actual
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/hidden-bastard-file-deleter/releases) page
+1. Download the latest release from the [Releases](https://github.com/MdrnDme/hidden-bastard-file-eliminator/releases) page
 2. Drag the app to your Applications folder
 3. Grant Full Disk Access when prompted (essential for finding what those motherfuckers are hiding)
 
